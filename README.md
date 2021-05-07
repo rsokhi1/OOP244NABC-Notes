@@ -1,15 +1,17 @@
-﻿# OOP244-NAB-Notes
+﻿# OOP244-NABC-Notes
 ## Active Session
-You are welcome to join the session as a guest by **using your real Seneca Name** (what is on your student card), otherwise you will be kicked out. Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
-[OOP244 active session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=p4NoTaf_DRXdqIw2Q575dDGlQQzQC3_5_0Lb2LQEN0E&m=c7456d831d8b31f17de0b9e7208ff6f8c4e96c80&t=1618590756800&u=senecacollege)
+You are welcome to Fardad's classes as a guest by **using your real Seneca Name** (what is on your student card, otherwise you will be kicked out). Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
+[OOP244 active session by Fardad]()
 ## Previous Sessions
 ### NAA
 ### NBB
 
 ## IPC144/BTP100 Review Session for OOP244/BTP200 Students
-The reveiw session on IPC144/BTP100 will be announced soon. <br />
+The reveiw session on IPC144/BTP100 will be on May 13th, 10 AM. <br />
 This session is open to all the students who need to review the 144/100 concepts before starting 244/200 subjects.<br />
 Click on the link bellow to join the session. (You must use your real full name as shown on your student card otherwise you will be kicked out)<br />
+Make sure you have a functional microphone and select **"Microphone"** when joining and **NOT** "~~Listen Only~~"!<br />
+Mute yourself when you join and unmute yourself when you need to talk.
 ### Join
 [Join the 144/100 Review session for 244/200 Students]()
 ### Review Recordings
