@@ -21,8 +21,8 @@ Mute yourself when you join and unmute yourself when you need to talk.
 |--------|-------------|-----|-----|-----|------|------|
 | 1      | 8:00-8:50   | |||OOP244 NAA Lecture| |
 | 2      | 8:55-9:45   | |||OOP244 NAA Lecture| |
-| 3      | 9:50-10:40  | |OOP244 NAA (Lecture/Q&A)| |[Office]()| |
-| 4      | 10:45-11:35 | |OOP244 NAA (Lecture/Q&A)| |[Office]()| |
+| 3      | 9:50-10:40  | |OOP244 NAA (Lecture/Q&A)| |[Office](https://teams.microsoft.com/l/team/19%3a600e885e862c434ba63910c5faf7e5e5%40thread.tacv2/conversations?groupId=b035bc40-2cb5-4c60-b4aa-a569067859b2&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)| |
+| 4      | 10:45-11:35 | |OOP244 NAA (Lecture/Q&A)| |[Office](https://teams.microsoft.com/l/team/19%3a600e885e862c434ba63910c5faf7e5e5%40thread.tacv2/conversations?groupId=b035bc40-2cb5-4c60-b4aa-a569067859b2&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)| |
 | 5      | 11:40-12:30 | |OOP244 NBB (Lecture/Q&A)| | | |
 | 6      | 12:35-13:25 | |OOP244 NBB (Lecture/Q&A)| | | |
 | 7      | 13:30-14:20 | | | | |OOP244 NCC Lecture|
