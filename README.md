@@ -5,6 +5,7 @@ You are welcome to Fardad's classes as a guest by **using your real Seneca Name*
 ## Previous Sessions
 ### NAA
 ### NBB
+### NCC
 
 ## IPC144/BTP100 Review Session for OOP244/BTP200 Students
 The reveiw session on IPC144/BTP100 will be on May 13th, 10 AM. <br />
