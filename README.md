@@ -9,7 +9,7 @@ You are welcome to Fardad's classes as a guest by **using your real Seneca Name*
 
 ## IPC144/BTP100 Review Session for OOP244/BTP200 Students
 The reveiw session on IPC144/BTP100 will be on May 13th, 10 AM. <br />
-Please RSVP by clicking [HERE](mailto:fardad.soleimanloo@senecacollege.ca?subject=144/100%20review%20session&body=I%20would%20like%20to%20attend!) if you like to attend.<br />
+RSVP by clicking [HERE](mailto:fardad.soleimanloo@senecacollege.ca?subject=144/100%20review%20session&body=I%20would%20like%20to%20attend!) if you like to attend.<br />
 This session is open to all the students who need to review the 144/100 concepts before starting 244/200 subjects.<br />
 Click on the link bellow to join the session. (You must use your real full name as shown on your student card otherwise you will be kicked out)<br />
 Make sure you have a functional microphone and select **"Microphone"** when joining and **NOT** "~~Listen Only~~"!<br />
