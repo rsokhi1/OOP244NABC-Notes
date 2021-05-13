@@ -15,7 +15,7 @@ Click on the link bellow to join the session. (You must use your real full name 
 Make sure you have a functional microphone and select **"Microphone"** when joining and **NOT** "~~Listen Only~~"!<br />
 Mute yourself when you join and unmute yourself when you need to talk.
 ### Join
-[Join the 144/100 Review session for 244/200 Students (Session is Open now)](https://connect.rna2.blindsidenetworks.com/invite/to?c=pnd9attZeCRZXQqHyhRPZhICwVIYN3Zn5VIhfx96AcQ&m=eaba671b1eeecc1b13256c78fbc00d3b63c130f9&t=1620913137279&u=senecacollege)
+[Join the 144/100 Review session for 244/200 Students (Session Ended)](https://connect.rna2.blindsidenetworks.com/invite/to?c=pnd9attZeCRZXQqHyhRPZhICwVIYN3Zn5VIhfx96AcQ&m=eaba671b1eeecc1b13256c78fbc00d3b63c130f9&t=1620913137279&u=senecacollege)
 ### Review Recordings
 ### Review Session Codes
 # Fardad's Schedule
