@@ -21,6 +21,16 @@
   <ItemGroup>
     <ClCompile Include="prg.c" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pointers.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="std.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="stddata.csv" />
+    <None Include="stdout.csv" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
