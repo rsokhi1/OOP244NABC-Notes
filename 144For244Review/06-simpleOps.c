@@ -14,9 +14,23 @@ int main() {
    a = b > 10;
    printf("%d\n", a);
    c = a = b + 20;
+   /* sequence of operation.
+   c = a = 32;
+   c = 32;
+   c will be 32;
+   */
    printf("%d\n", a);
    printf("%d\n", c);
    a = !!b;
+   /* sequence of operation.
+   * a = !!12;
+   * a = !0;
+   * a = 1;
+   */
+
    printf("%d\n", a);
+   if (b) {
+      printf("b is true\n");
+   }
    return 0;
 }
