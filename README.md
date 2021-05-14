@@ -17,7 +17,9 @@ Mute yourself when you join and unmute yourself when you need to talk.
 ### Join
 [Join the 144/100 Review session for 244/200 Students (Session Ended)](https://connect.rna2.blindsidenetworks.com/invite/to?c=pnd9attZeCRZXQqHyhRPZhICwVIYN3Zn5VIhfx96AcQ&m=eaba671b1eeecc1b13256c78fbc00d3b63c130f9&t=1620913137279&u=senecacollege)
 ### Review Recordings
+[144/100 for 244/200 Review session](https://recordings.rna2.blindsidenetworks.com/senecacollege/f2f6a54f9f645d3f6c67dcc4a92dcade141b9b99-1620913137318/capture/)
 ### Review Session Codes
+[144/100 for 244/200 Session Notes](https://github.com/Seneca-244200/OOP244NABC-Notes/tree/main/144For244Review)
 # Fardad's Schedule
 | Period | Start-Stop  | Mon | Tue | Wed | Thu | Fri |
 |--------|-------------|-----|-----|-----|------|------|
