@@ -7,17 +7,6 @@ You are welcome to Fardad's classes as a guest by **using your real Seneca Name*
 ### NBB
 ### NCC
 
-## IPC144/BTP100 Review Session for OOP244/BTP200 Students
-The reveiw session on IPC144/BTP100 will be on May 13th, 10 AM. <br />
-RSVP by clicking [HERE](mailto:fardad.soleimanloo@senecacollege.ca?subject=144/100%20review%20session&body=I%20would%20like%20to%20attend!) if you like to attend.<br />
-This session is open to all the students who need to review the 144/100 concepts before starting 244/200 subjects.<br />
-Click on the link bellow to join the session. (You must use your real full name as shown on your student card otherwise you will be kicked out)<br />
-Make sure you have a functional microphone and select **"Microphone"** when joining and **NOT** "~~Listen Only~~"!<br />
-Mute yourself when you join and unmute yourself when you need to talk.
-### Join
-[Join the 144/100 Review session for 244/200 Students (Session Ended)](https://connect.rna2.blindsidenetworks.com/invite/to?c=pnd9attZeCRZXQqHyhRPZhICwVIYN3Zn5VIhfx96AcQ&m=eaba671b1eeecc1b13256c78fbc00d3b63c130f9&t=1620913137279&u=senecacollege)
-### Review Recordings
-### Review Session Codes
 # Fardad's Schedule
 | Period | Start-Stop  | Mon | Tue | Wed | Thu | Fri |
 |--------|-------------|-----|-----|-----|------|------|
@@ -33,6 +22,45 @@ Mute yourself when you join and unmute yourself when you need to talk.
 | 10     | 16:16-17:05 | | |OOP244 NCC (Lecture/Q&A)| |OOP244 NBB Lecture|
 | 11     | 17:10-18:00 | | | | | |
 | 12     | 18:05-18:55 | | | | | |
+
+## IPC144/BTP100 Review Session for OOP244/BTP200 Students
+The review session on IPC144/BTP100 was held on May 13th, 10 AM to 5:20 PM (7 hours and 20 minutes long). <br />
+This session was open to all the students who needed to review the 144/100 concepts before starting 244/200 subjects.<br />
+
+### Review Recordings
+[144/100 for 244/200 Review session](https://recordings.rna2.blindsidenetworks.com/senecacollege/f2f6a54f9f645d3f6c67dcc4a92dcade141b9b99-1620913137318/capture/)
+
+The recording is 5 hours and 2 minutes long (skipping the recess periods).<br />
+Here are the timestamps for the main topics covered: (Thank you **Chung On Tse**, for providing the timestamps)<br />
+
+- 0:00:00 Introduction, Git 
+- 0:17:00 computer, cpu, bits, bytes
+- 0:22:00 ASCII, characters
+- 0:26:00 addresses
+- 0:30:00 segmentation fault
+- 0:38:00 high-level language, flow chart presentation: compiler
+- 0:51:00 data types
+- 1:13:00 escape sequences
+- 1:16:00 character arrays
+- 1:27:00 Assignment right-to-left
+- 1:42:00 arrays
+- 1:52:00 integral operands
+- 1:55:00 logical expressions
+- 2:09:00 functions, if-else
+- 2:30:00 selection constructs, if-else
+- 2:37:00 case and switch
+- 2:41:00 how to write functions with one return statement
+- 2:54:00 conditional expression
+- 3:12:00 flags
+- 3:23:00 pointers - presentation
+- 3:55:00 arrays
+- 4:10:00 structs and passing by address
+- 4:27:00 files
+- 4:45:00 string library, string.h
+- 4:51:00 2 Dim. arrays
+### Review Session Codes
+[144/100 for 244/200 Session Notes](https://github.com/Seneca-244200/OOP244NABC-Notes/tree/main/144For244Review)
+
 
 # Computer preparation and Getting Workshop files
 ## Setting up your computers for OOP244
