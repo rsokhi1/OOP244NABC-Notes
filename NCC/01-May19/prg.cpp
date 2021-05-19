@@ -1,6 +1,15 @@
-#include <iostream>
-using namespace std;
+#include "Student.h"
+
+
 int main() {
-   cout << "Hello OOP244NCC Students!!!!" << endl;
+   struct Student sts[30];
+   int i;
+   for (i = 0; i < 30; i++) {
+      sts[i].getInfo();
+   }
+   // do what process is needed
+   for (i = 0; i < 30; i++) {
+      sts[i].print();
+   }
    return 0;
 }
