@@ -4,6 +4,7 @@ You are welcome to Fardad's classes as a guest by **using your real Seneca Name*
 [OOP244 active session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=fqlpbf7Yi8PhqCo_c6X4kOCx6NLIGIFwRlmdxidNASo&m=da0070b41abc8af2cbe2bfb452bf274aa8349a6e&t=1621352393757&u=senecacollege)
 ## Previous Sessions
 ### NAA
+[01- Intro - May 18](https://recordings.rna2.blindsidenetworks.com/senecacollege/2678bf2924dbb7a732270ba3291a4147ab317b76-1621345789706/capture/)
 ### NBB
 ### NCC
 
