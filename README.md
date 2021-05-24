@@ -4,9 +4,14 @@ You are welcome to Fardad's classes as a guest by **using your real Seneca Name*
 [OOP244 active session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=NnIRqjvuGXK9Wc7CBGRAlX3FRIQ7cWFrKemH9z76wtE&m=da0070b41abc8af2cbe2bfb452bf274aa8349a6e&t=1621623858802&u=senecacollege)
 ## Previous Sessions
 ### NAA
-[01- Intro - May 18](https://recordings.rna2.blindsidenetworks.com/senecacollege/2678bf2924dbb7a732270ba3291a4147ab317b76-1621345789706/capture/)
+- [01- Intro - May 18](https://recordings.rna2.blindsidenetworks.com/senecacollege/2678bf2924dbb7a732270ba3291a4147ab317b76-1621345789706/capture/)
+- 02- OOP - Objects, Modular prg, Hello everyone presentations (Private)
 ### NBB
+- [01 -Intro - May 19](https://recordings.rna2.blindsidenetworks.com/senecacollege/0d8bcf501683686149a744be030f2997f653c324-1621352393794/capture/)
+- 02- OOP - Objects, Modular prg, Hello everyone presentations (Private)
 ### NCC
+- [01 -Intro - May 19](https://recordings.rna2.blindsidenetworks.com/senecacollege/fb366ce0c7238e837d20dd751775ac67833315a0-1621451764757/capture/)
+- 02- OOP - Objects, Modular prg, Hello everyone presentations (Private)
 
 # Fardad's Schedule
 | Period | Start-Stop  | Mon | Tue | Wed | Thu | Fri |
