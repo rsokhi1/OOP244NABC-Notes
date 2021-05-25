@@ -1,12 +1,17 @@
 ﻿# OOP244-NABC-Notes
 ## Active Session
 You are welcome to Fardad's classes as a guest by **using your real Seneca Name** (what is on your student card, otherwise you will be kicked out). Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
-[OOP244 active session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=MhM8-OqJQsHzsM1rS9njL2NvTM2w6WoJUOPPBqbUzcM&m=35d7f6698e71ea9e90178be2bcb4d1f61bea97f7&t=1621511892511&u=senecacollege)
+[OOP244 active session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=NnIRqjvuGXK9Wc7CBGRAlX3FRIQ7cWFrKemH9z76wtE&m=da0070b41abc8af2cbe2bfb452bf274aa8349a6e&t=1621623858802&u=senecacollege)
 ## Previous Sessions
 ### NAA
-[01- Intro - May 18](https://recordings.rna2.blindsidenetworks.com/senecacollege/2678bf2924dbb7a732270ba3291a4147ab317b76-1621345789706/capture/)
+- [01- Intro - May 18](https://recordings.rna2.blindsidenetworks.com/senecacollege/2678bf2924dbb7a732270ba3291a4147ab317b76-1621345789706/capture/)
+- 02- OOP - Objects, Modular prg, Hello everyone presentations (Private) [Last semester's recording](https://recordings.rna2.blindsidenetworks.com/senecacollege/b01cb843fdb89e5626de49755e50a2f7b28d2ef4-1611067513384/capture/)
 ### NBB
+- [01 -Intro - May 19](https://recordings.rna2.blindsidenetworks.com/senecacollege/0d8bcf501683686149a744be030f2997f653c324-1621352393794/capture/)
+- 02- OOP - Objects, Modular prg, Hello everyone presentations (Private) [Last semester's recording](https://recordings.rna2.blindsidenetworks.com/senecacollege/38d0354c4d4583be98c7cd8a39e2681ad8d1768a-1611073970531/capture/)
 ### NCC
+- [01 -Intro - May 19](https://recordings.rna2.blindsidenetworks.com/senecacollege/fb366ce0c7238e837d20dd751775ac67833315a0-1621451764757/capture/)
+- 02- OOP - Objects, Modular prg, Hello everyone presentations (Private)  [Last semester's recording](https://recordings.rna2.blindsidenetworks.com/senecacollege/38d0354c4d4583be98c7cd8a39e2681ad8d1768a-1611073970531/capture/)
 
 # Fardad's Schedule
 | Period | Start-Stop  | Mon | Tue | Wed | Thu | Fri |
