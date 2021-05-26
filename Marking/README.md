@@ -3,6 +3,8 @@
 |[MR](#mr)  | Unnecessary multiple return statements|
 |[CM](#cm)  | Commented code left in the released version |
 |[IH](#ih) | Unneeded header file included in another header file| 
+|[BS](#bs) | Bad headerfile safeguard define names| 
+
 # Coding Feedback
 ## MR
 ### Feedback
@@ -51,8 +53,8 @@ Only include a header file where it is being used. Never include a header file i
 ### Problematic code sample
 ```C++
 
-#ifndef FILE_H
-#define FILE_H
+#ifndef SDDS_FILE_H
+#define SDDS_FILE_H
 
 #include <cstdio>   // << Not needed here!!!!!!!!!
 #include"ShoppingRec.h"
@@ -67,10 +69,24 @@ namespace sdds {
 
 ```
 
-## Code
+## BS
 ### Feedback
+The format of the safeguard header file is as follows:<br />
+```NAMESPACE_HEADERNAME_H_```
 ### Problematic code sample
 ```C++
+// file.h header file
+#ifndef FILE_H   // << the name sould be SDDS_FILE_H_
+#define FILE_H
+#include"ShoppingRec.h"
+namespace sdds {
+	bool open();
+	bool openWR();
+	void close();
+	bool fread(ShoppingRec* rec);
+	void fwrite(const ShoppingRec* rec);
+}
+#endif
 ```
 ## Code
 ### Feedback
