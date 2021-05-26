@@ -1,3 +1,8 @@
+|Code|Problem|
+|---|----|
+|MR  | Unnecessary multiple return statements|
+|CM  | Commented code left in the released version |
+|IH | Unneeded header file included in another header file| 
 # Coding Feedback
 ## MR
 ### Feedback
@@ -40,6 +45,38 @@ Unnecessary commented code in the source code. Make sure all the unwanted commen
 ```
 
 
+## IH
+### Feedback
+Only include a header file where it is being used. Never include a header file inside another header file unless absolutely necessary
+### Problematic code sample
+```C++
+
+#ifndef FILE_H
+#define FILE_H
+
+#include <cstdio>   // << Not needed here!!!!!!!!!
+#include"ShoppingRec.h"
+namespace sdds {
+	bool open();
+	bool openWR();
+	void close();
+	bool fread(ShoppingRec* rec);
+	void fwrite(const ShoppingRec* rec);
+}
+#endif
+
+```
+
+## Code
+### Feedback
+### Problematic code sample
+```C++
+```
+## Code
+### Feedback
+### Problematic code sample
+```C++
+```
 ## Code
 ### Feedback
 ### Problematic code sample
