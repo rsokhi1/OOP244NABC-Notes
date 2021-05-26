@@ -1,8 +1,8 @@
 |Code|Problem|
 |---|----|
-|MR  | Unnecessary multiple return statements|
-|CM  | Commented code left in the released version |
-|IH | Unneeded header file included in another header file| 
+|[MR](#mr)  | Unnecessary multiple return statements|
+|[CM](#cm)  | Commented code left in the released version |
+|[IH](#ih) | Unneeded header file included in another header file| 
 # Coding Feedback
 ## MR
 ### Feedback
