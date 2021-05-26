@@ -5,6 +5,7 @@
 |[IH](#ih) | Unneeded header file included in another header file| 
 |[BS](#bs) | Bad headerfile safeguard define names| 
 |[CA](#ca) | Custom headerfiles must be included after library headerfiles|
+|[BK](#bk) | Use of break statement in a loop |
 
 # Coding Feedback
 ## MR
@@ -100,6 +101,26 @@ All the custom headerfiles written by you must be inlucded after the library hea
 namespace sdds
 {
 
+```
+## BK
+### Feedback
+the break statement is only allowed in a switch statement. A break statement should never be used to end a loop
+### Problematic code sample
+```C++
+while (*s1 != '\0' && *s2 != '\0')
+{
+	count++;
+	if (count >= len)
+		break;       <<< Never use a break in to end a loop, use flags or set the condition of the loop properly.
+	s1++;
+	s2++;
+}
+
+```
+## Code
+### Feedback
+### Problematic code sample
+```C++
 ```
 ## Code
 ### Feedback
