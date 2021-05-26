@@ -1,7 +1,7 @@
 ﻿# OOP244-NABC-Notes
 ## Active Session
 You are welcome to Fardad's classes as a guest by **using your real Seneca Name** (what is on your student card, otherwise you will be kicked out). Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
-[OOP244 active session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=9wZnuueFSOaWSaBdX6MNfxZ2ndMPVgcYRa9vm9JkT_M&m=da0070b41abc8af2cbe2bfb452bf274aa8349a6e&t=1621956613469&u=senecacollege)
+[OOP244 active session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=SgwklUhd8X0bKCbZdwUlOOnrjxJba0U94SyrkWryG8w&m=0accc1901cdc1c5c5dde9f1c273b291f0c8fee37&t=1622056781215&u=senecacollege)
 ## Previous Sessions
 ### NAA
 - [01- Intro - May 18](https://recordings.rna2.blindsidenetworks.com/senecacollege/2678bf2924dbb7a732270ba3291a4147ab317b76-1621345789706/capture/)
