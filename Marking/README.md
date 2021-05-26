@@ -4,6 +4,7 @@
 |[CM](#cm)  | Commented code left in the released version |
 |[IH](#ih) | Unneeded header file included in another header file| 
 |[BS](#bs) | Bad headerfile safeguard define names| 
+|[CA](#ca) | Custom headerfiles must be included after library headerfiles|
 
 # Coding Feedback
 ## MR
@@ -88,10 +89,17 @@ namespace sdds {
 }
 #endif
 ```
-## Code
+## CA
 ### Feedback
+All the custom headerfiles written by you must be inlucded after the library headerfiles
 ### Problematic code sample
 ```C++
+#define _CRT_SECURE_NO_WARNINGS
+#include "File.h"  << this line must come after line 99
+#include <cstdio>
+namespace sdds
+{
+
 ```
 ## Code
 ### Feedback
